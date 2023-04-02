@@ -1,11 +1,16 @@
 {
   "name": "creight-ui-wip",
   "version": "0.0.0",
-  "description": "",
+  "description": "Tailwind component library built with typescript and react",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
+  "keywords": [
+    "tailwind",
+    "react",
+    "component library",
+    "typescript"
+  ],
   "author": "George Bockari <bitwhys@cr8iv.io>",
   "license": "MIT",
   "devDependencies": {
